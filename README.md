@@ -1,0 +1,2 @@
+# hailo
+AI hardware acceleration

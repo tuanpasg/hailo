@@ -6,3 +6,5 @@ sudo apt-get install -y libcairo2-dev libgirepository1.0-dev libgstreamer1.0-dev
 sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0
 
 https://github.com/hailo-ai/Hailo-Application-Code-Examples.git
+
+https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/ModelZoo/Compiled/v2.16.0/hailo8/resnet_v1_50.hef
